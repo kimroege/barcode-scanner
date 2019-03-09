@@ -24,4 +24,4 @@ barcode();
 
 ![alt text][barcode]
 
-[barcode]: https://www.teknologisk.dk/_/media/39531_barcode.jpg "Logo Title Text 2"
+[barcode]: https://www.teknologisk.dk/_/media/39531_barcode.jpg "Arla Harmonie Økologisk Skummetmælk"
